@@ -51,18 +51,6 @@ const vladimir = {
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MedinaNtsprint&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=MedinaNtsprint&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 📦 Repository Statistics
 
@@ -71,9 +59,6 @@ const vladimir = {
 ### � GitHub Profile Summary
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MedinaNtsprint&theme=tokyonight)
 
-### 🔥 Repository Overview
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MedinaNtsprint&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MedinaNtsprint&theme=tokyonight)
 
 ### 📈 Repository Insights
 [![GitHub followers](https://img.shields.io/github/followers/MedinaNtsprint?label=Followers&style=social)](https://github.com/MedinaNtsprint?tab=followers)
