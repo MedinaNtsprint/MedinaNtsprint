@@ -23,9 +23,9 @@ const vladimir = {
 
 ---
 
-## 🌟 Sobre Mí
+## 🌟 About Me
 
-\`\`\`javascript
+```javascript
 const vladimir = {
     location: "Havana, Cuba 🇨🇺",
     currentRole: "Software Development Engineer II @ NtSprint LLC",
@@ -34,9 +34,9 @@ const vladimir = {
     currentlyLearning: ["Cloud Technologies", "Microservices", "AI/ML"],
     funFact: "I love turning complex problems into simple solutions! 🧩"
 };
-\`\`\`
+```
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 <div align="center">
 
