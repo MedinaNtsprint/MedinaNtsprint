@@ -21,20 +21,7 @@ const vladimir = {
 
 </div>
 
----
 
-## 🌟 About Me
-
-```javascript
-const vladimir = {
-    location: "Havana, Cuba 🇨🇺",
-    currentRole: "Software Development Engineer II @ NtSprint LLC",
-    experience: "6+ years in software development",
-    passions: ["Clean Code", "Scalable Architecture", "User Experience"],
-    currentlyLearning: ["Cloud Technologies", "Microservices", "AI/ML"],
-    funFact: "I love turning complex problems into simple solutions! 🧩"
-};
-```
 
 ## 🛠️ Tech Stack
 
@@ -74,7 +61,7 @@ const vladimir = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MedinaNtsprint&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MedinaNtsprint&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MedinaNtsprint&theme=tokyonight&hide_border=true)
 
 </div>
 
