@@ -6,16 +6,16 @@
 const vladimir = {
     location: "Havana, Cuba 🇨🇺",
     currentRole: "Software Development Engineer II @ NtSprint LLC",
-    experience: "6+ years in software development",
+    experience: "2+ years in software development",
     passions: ["Clean Code", "Scalable Architecture", "User Experience"],
-    currentlyLearning: ["Cloud Technologies", "Microservices", "AI/ML"],
+    currentlyLearning: ["Cloud Technologies", "N8N"],
     funFact: "I love turning complex problems into simple solutions! 🧩"
 };
 ```
 
 ## 🛠️ Tech Stack# 👋 Hello! I'm Vladimir Medina Miguel
 
-### 🚀 Full Stack Software Engineer | .NET Core & React Specialist
+### 🚀 Full Stack Software Engineer | .NET Core & React
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;.NET+Core+%26+React+Expert;Always+learning+new+things;Building+scalable+solutions" alt="Typing SVG" />
 
@@ -59,9 +59,28 @@ const vladimir = {
   
 ![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MedinaNtsprint&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MedinaNtsprint&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MedinaNtsprint&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 📦 Repository Statistics
+
+<div align="center">
+
+### � GitHub Profile Summary
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MedinaNtsprint&theme=tokyonight)
+
+### 🔥 Repository Overview
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MedinaNtsprint&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MedinaNtsprint&theme=tokyonight)
+
+### 📈 Repository Insights
+[![GitHub followers](https://img.shields.io/github/followers/MedinaNtsprint?label=Followers&style=social)](https://github.com/MedinaNtsprint?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/MedinaNtsprint?label=Stars&style=social)](https://github.com/MedinaNtsprint?tab=repositories)
+
+### 🏆 GitHub Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MedinaNtsprint&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
@@ -102,8 +121,11 @@ const vladimir = {
 
 ## 📈 Development Activity
 
-START_SECTION:activity
-END_SECTION:activity
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MedinaNtsprint&theme=tokyo-night&bg_color=1a1b27&color=9745f5&line=9745f5&point=f7df1e&area=true&hide_border=true)
+
+</div>
 
 ## 🤝 Let's Connect
 
