@@ -1,6 +1,19 @@
-<div align="center">
-  
-# 👋 ¡Hola! Soy Vladimir Medina Miguel
+<div align---
+
+## 🌟 About Me
+
+```javascript
+const vladimir = {
+    location: "Havana, Cuba 🇨🇺",
+    currentRole: "Software Development Engineer II @ NtSprint LLC",
+    experience: "6+ years in software development",
+    passions: ["Clean Code", "Scalable Architecture", "User Experience"],
+    currentlyLearning: ["Cloud Technologies", "Microservices", "AI/ML"],
+    funFact: "I love turning complex problems into simple solutions! 🧩"
+};
+```
+
+## 🛠️ Tech Stack# 👋 Hello! I'm Vladimir Medina Miguel
 
 ### 🚀 Full Stack Software Engineer | .NET Core & React Specialist
 
@@ -40,12 +53,12 @@ const vladimir = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Bases de Datos
+### Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### DevOps & Herramientas
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -53,7 +66,7 @@ const vladimir = {
 
 </div>
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   
@@ -65,47 +78,47 @@ const vladimir = {
 
 </div>
 
-## 💼 Experiencia Destacada
+## 💼 Featured Experience
 
 ### 🏢 Software Development Engineer II - NtSprint LLC
-*Marzo 2022 - Presente*
+*March 2022 - Present*
 
 #### 🔧 Enterprise API (.NET Core)
-- ✅ **Backend robusto** con .NET Core para gestión empresarial
-- 🔐 **Autenticación JWT** y políticas de seguridad personalizadas
-- 📊 **Generación dinámica** de reportes en PDF y Excel
-- 🏗️ **Arquitectura multitenant** con soporte de internacionalización
-- 🚀 **Automatización** de despliegues y migraciones
+- ✅ **Robust backend** with .NET Core for enterprise management
+- 🔐 **JWT authentication** and custom security policies
+- 📊 **Dynamic generation** of PDF and Excel reports
+- 🏗️ **Multitenant architecture** with internationalization support
+- 🚀 **Automated** deployments and migrations
 
 #### 🌐 Enterprise Web Application
-- ⚛️ **Componentes modulares** con React JS
-- 🎨 **UX/UI mejorada** con diseño responsivo
-- 🔄 **Integración perfecta** con APIs RESTful
-- 👥 **Metodologías ágiles** para despliegue de productos
+- ⚛️ **Modular components** with React JS
+- 🎨 **Improved UX/UI** with responsive design
+- 🔄 **Seamless integration** with RESTful APIs
+- 👥 **Agile methodologies** for product deployment
 
-## 🎯 Proyectos Destacados
+## 🎯 Featured Projects
 
 <div align="center">
 
-| Proyecto | Tecnologías | Descripción |
+| Project | Technologies | Description |
 |----------|-------------|-------------|
-| 🏢 **Enterprise API** | .NET Core, SQL Server, JWT | Sistema empresarial con autenticación avanzada |
-| 🌐 **Web Platform** | React, TypeScript, Tailwind | Plataforma moderna para visualización de datos |
-| 🔧 **Legacy Maintenance** | ASP.NET MVC, Razor | Mantenimiento y actualización de sistemas legacy |
+| 🏢 **Enterprise API** | .NET Core, SQL Server, JWT | Enterprise system with advanced authentication |
+| 🌐 **Web Platform** | React, TypeScript, Tailwind | Modern platform for data visualization |
+| 🔧 **Legacy Maintenance** | ASP.NET MVC, Razor | Maintenance and upgrade of legacy systems |
 
 </div>
 
-## 🌍 Idiomas
+## 🌍 Languages
 
-- 🇪🇸 **Español**: Nativo
-- 🇺🇸 **Inglés**: Intermedio
+- 🇪🇸 **Spanish**: Native
+- 🇺🇸 **English**: Intermediate
 
-## 📈 Actividad de Desarrollo
+## 📈 Development Activity
 
 START_SECTION:activity
 END_SECTION:activity
 
-## 🤝 Conectemos
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -113,8 +126,8 @@ END_SECTION:activity
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MedinaNtsprint)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medinavladimir14@gmail.com)
 
-📱 **Teléfono**: +53 55129399  
-📍 **Ubicación**: Havana, Cuba
+📱 **Phone**: +53 55129399  
+📍 **Location**: Havana, Cuba
 
 </div>
 
@@ -122,11 +135,11 @@ END_SECTION:activity
 
 <div align="center">
 
-### 💡 "Transformando ideas complejas en soluciones simples y elegantes"
+### 💡 "Transforming complex ideas into simple and elegant solutions"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MedinaNtsprint&color=blueviolet&style=flat-square&label=Profile+Views)
 
-⭐️ **¿Te gusta mi trabajo?** ¡Dale una estrella a mis repositorios!
+⭐️ **Do you like my work?** Give a star to my repositories!
 
 </div>
 
